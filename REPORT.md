@@ -61,7 +61,7 @@ eps_decay =0.995        # multiplicative factor (per episode) for decreasing eps
 
 This tuning led to solving the environment in 462 episodes scoring an avg of 13.04
 
-![alt text](https://github.com/Strihias/Deep-Reinforcement-Learning---Navigation-Project-/images/diagram.png "Performance Diagram")
+![alt text](https://github.com/Strihias/Deep-Reinforcement-Learning---Navigation-Project-/blob/main/diagram.jpg "Performance Diagram")
 
 
 # Future Work
